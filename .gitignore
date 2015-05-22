@@ -25,6 +25,15 @@
 *.out
 *.app
 *.i*86
+
+#include <stdio.h>
+
+int ()
+{
+printf("hello world");
+return 0;
+}
+
 *.x86_64
 *.hex
 
